@@ -9,10 +9,7 @@
 void main(void)
 
 {
-//	DIO_u8SetPortDirection(DIO_u8_PORTA,0xff);
-//	DIO_u8SetPinDirection(DIO_u8_PORTB,DIO_u8_PIN0,DIO_u8_PIN_OUTPUT);
-//	DIO_u8SetPinDirection(DIO_u8_PORTB,DIO_u8_PIN1,DIO_u8_PIN_OUTPUT);
-//	DIO_u8SetPinDirection(DIO_u8_PORTB,DIO_u8_PIN2,DIO_u8_PIN_OUTPUT);
+
     PORT_voidInt();
 
 	CHAR_LCD_viodInit();
